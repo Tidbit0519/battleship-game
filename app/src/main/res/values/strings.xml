@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Battleship War</string>
+    <string name="about">This game was built by the students of CS203 at Brigham Young University Hawaii during Fall 2022 semester. Go Seasiders!</string>
+    <string name="score">SCORE</string>
+    <string name="time">TIME</string>
+    <string name="congrats">Congratulations! A new high score! </string>
+    <string name="consolation">Better luck next time! (Score to beat: %1$d ) </string>
+    <string name="game_over">GAME OVER</string>
+    <string name="play_again">Play again?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="ok">OK</string>
+    <string name="soundfx">Sound effects</string>
+    <string name="soundfx_on">Sounds effects will be played</string>
+    <string name="soundfx_off">Sounds effects will not be played</string>
+    <string name="rapid_cannons">Rapid-fire Cannons</string>
+    <string name="rapid_cannons_on">Cannons will fire at each tap</string>
+    <string name="rapid_cannons_off">Only one missile at a time</string>
+    <string name="rapid_dc">Rapid-fire Depth Charges</string>
+    <string name="rapid_dc_on">Depth charges will drop at each tap</string>
+    <string name="rapid_dc_off">Only one depth charge at a time</string>
+    <string name="howmany_subs">How many submarines?</string>
+    <string name="howmany_subs_summary">Number of submarines on-screen at a time</string>
+    <string name="howmany_planes">How many airplanes?</string>
+    <string name="howmany_planes_summary">Number of airplanes on-screen at a time</string>
+    <string name="sub_speed">Submarine speed</string>
+    <string name="sub_speed_summary">How fast do submarines move?</string>
+    <string name="plane_speed">Airplane speed</string>
+    <string name="plane_speed_summary">How fast do airplanes move?</string>
+    <string name="title_activity_prefs">Preferences</string>
+
+</resources>

@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">La Guerre sur la Mer</string>
+    <string name="about">Ce jeu fut créé par les étudiants de l\'Université Brigham Young--Hawaï en 2022. \"Go Seasiders!\"</string>
+    <string name="score">SCORE</string>
+    <string name="time">TEMPS</string>
+    <string name="congrats">Félicitations! Un nouveau meilleur score</string>
+    <string name="consolation">Plus de chance la prochaine fois! (Meilleur score: %1$d ) </string>
+    <string name="game_over">FIN</string>
+    <string name="play_again">Encore?</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="ok">OK</string>
+    <string name="soundfx">Bruitage</string>
+    <string name="soundfx_on">Le bruitage: activé</string>
+    <string name="soundfx_off">Le bruitage: désactivé</string>
+    <string name="rapid_cannons">Canons à tir rapide</string>
+    <string name="rapid_cannons_on">Activé</string>
+    <string name="rapid_cannons_off">Désactivé</string>
+    <string name="rapid_dc">Grenades sous-marine à tir rapide</string>
+    <string name="rapid_dc_on">Activé</string>
+    <string name="rapid_dc_off">Désactivé</string>
+    <string name="howmany_subs">Combien de sous-marins?</string>
+    <string name="howmany_subs_summary">Des sous-marins visibles à la fois</string>
+    <string name="howmany_planes">Combien d\'avions?</string>
+    <string name="howmany_planes_summary">Des avions visibles à la fois</string>
+    <string name="sub_speed">La vitesse des sous-marins</string>
+    <string name="sub_speed_summary">À quelle vitesse les sous-marins se déplacent-ils?</string>
+    <string name="plane_speed">La vitesse des avions</string>
+    <string name="plane_speed_summary">À quelle vitesse les avions se déplacent-ils?</string>
+    <string name="title_activity_prefs">Paramètres</string>
+</resources>
+
