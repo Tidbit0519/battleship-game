@@ -1,7 +1,8 @@
 # Battleship Game
 
 ## Instructional Video Playlist
-Here's the link to how I built this mobile app on Android Studio. /n
+Here's the link to how I built this mobile app on Android Studio.
+
 https://www.youtube.com/playlist?list=PLaeDn8WHjXlPnwDScTuf-3vgpqjx4Iy-B
 
 ## Description
