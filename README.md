@@ -1,5 +1,9 @@
 # Battleship Game
 
+## Instructional Video Playlist
+Here's the link to how I built this mobile app on Android Studio.
+https://www.youtube.com/playlist?list=PLaeDn8WHjXlPnwDScTuf-3vgpqjx4Iy-B
+
 ## Description
 
 Battheship game is a simple 2D android mobile game where user control a battleship on the center of the screen and shoots any incoming airplanes and submarines to get the highest possible score within the time limit.
@@ -7,8 +11,6 @@ Battheship game is a simple 2D android mobile game where user control a battlesh
 I learned to build this project as part of my university's object-oriented programming project. I have learned to incorporate different design patterns such as Observer, Singleton, and Strategy Pattern while working on this project.
 
 ## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
 
 - [Installation](#installation)
 - [Usage](#usage)
